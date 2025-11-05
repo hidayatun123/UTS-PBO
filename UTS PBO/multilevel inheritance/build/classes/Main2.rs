@@ -1,0 +1,1 @@
+pewarisan2.Pegawai
